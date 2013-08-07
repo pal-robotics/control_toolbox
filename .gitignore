@@ -1,1 +1,7 @@
 src/control_toolbox
+build/
+cfg/Parameters.cfgc
+cfg/cpp/
+docs/
+lib/
+srv_gen/
